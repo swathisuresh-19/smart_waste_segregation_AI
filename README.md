@@ -1,0 +1,1 @@
+# smart_waste_segregation_AI
