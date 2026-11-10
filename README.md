@@ -98,9 +98,9 @@ The interactive Streamlit dashboard provides the following features:
 
 ![image alt](https://github.com/swathisuresh-19/smart_waste_segregation_AI/blob/main/dashboard%20screenshots/results_classification.png?raw=true)
 
-### Dashboard Analytics
+### Confidence Status distribution 
 
-![image alt}(image_url)
+![image alt](https://github.com/swathisuresh-19/smart_waste_segregation_AI/blob/main/dashboard%20screenshots/results_classification.png?raw=true)
 
 ## ⚙️ Project Workflow
 
