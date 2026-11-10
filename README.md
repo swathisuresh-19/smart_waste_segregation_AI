@@ -92,7 +92,7 @@ The interactive Streamlit dashboard provides the following features:
 
 ### Main Dashboard
 
-![image alt}(https://github.com/swathisuresh-19/smart_waste_segregation_AI/blob/main/dashboard%20screenshots/home.png?raw=true)
+![image alt](https://github.com/swathisuresh-19/smart_waste_segregation_AI/blob/main/dashboard%20screenshots/home.png?raw=true)
 
 ### Waste Image Prediction
 
