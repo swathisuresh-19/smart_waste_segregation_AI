@@ -100,7 +100,7 @@ The interactive Streamlit dashboard provides the following features:
 
 ### Confidence Status distribution 
 
-![image alt](https://github.com/swathisuresh-19/smart_waste_segregation_AI/blob/main/dashboard%20screenshots/results_classification.png?raw=true)
+![image alt](https://github.com/swathisuresh-19/smart_waste_segregation_AI/blob/main/dashboard%20screenshots/results_chart.png?raw=true)
 
 ## ⚙️ Project Workflow
 
